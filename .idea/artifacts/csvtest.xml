@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csvtest">
+    <output-path>$PROJECT_DIR$/out/artifacts/csvtest</output-path>
+    <root id="archive" name="csvtest.jar">
+      <element id="module-output" name="OpenIDMTest" />
+    </root>
+  </artifact>
+</component>
